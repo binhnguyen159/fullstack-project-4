@@ -79,3 +79,30 @@ The e2e tests are using Protractor and Jasmine.
 ## License
 
 [License](LICENSE.txt)
+
+
+## Front-End Link:
+
+- Link to the hosted working frontend application:
+  (https://mybucket-864662948199.s3.amazonaws.com/)
+
+## Screenshots:
+
+1. AWS RDS for the database overview:
+   ![RDS](/screenshots/console_RDS.png)
+2. AWS ElasticBeanstalk for the (backend) API deployment:
+   ![Home](/screenshots/console_elastic.png)
+3. AWS S3 for (frontend) web hosting: ``
+   ![Home](/screenshots/console_s3.png)
+4. Home page of the application:
+   ![Home](/screenshots/fe.png)
+5. Udagram Project in Circle CI:
+   ![Udagram](/screenshots/circle_ci_pipeline.png)
+6. Environment Variables:
+   ![Udagram](/screenshots/config_enviroment_variable_circle_ci.png)
+7. Picture of the last successful execution of the pipeline:
+   ![Last Build](/screenshots/circle_ci_workflow.png)
+8. Build Phase
+   ![Build](/screenshots/circle_ci_build.png)
+9. Deployment Phase
+   ![Deployment](/screenshots/circie_ci_deploy.png)
