@@ -84,7 +84,7 @@ The e2e tests are using Protractor and Jasmine.
 ## Front-End Link:
 
 - Link to the hosted working frontend application:
-  (https://mybucket-864662948199.s3.amazonaws.com/)
+  (http://mybucket-864662948199.s3-website-us-east-1.amazonaws.com)
 
 ## Screenshots:
 
